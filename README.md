@@ -37,17 +37,16 @@ The linter recommended for moodle development is PHP Codesniffer. PHP CodeSniffe
       ```
       
 
-  4. Install PHP CodeSniffer in VS Code or your code editor:
+  4. Install PHP CodeSniffer in VS Code:
  
-      On VS:
-           
-          - Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
-   
-          - Type ext install phpcs to find the extension.
+        
+      - Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
+      
+      - Type ext install phpcs to find the extension.
     
-          - Press Enter or click the cloud icon to install it.
+      - Press Enter or click the cloud icon to install it.
 
-          - Restart Visual Studio Code when prompted.
+      - Restart Visual Studio Code when prompted.
  
   
   5. Test that PHP CodeSniffer is working:
