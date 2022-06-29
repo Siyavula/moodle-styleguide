@@ -17,7 +17,7 @@ The following are the steps to set up PHP Codesniffer:
 
   1. Start by installing composer, the steps are provided in the link below:
 
-    https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
+  *https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
     
  
   2. Install composer dependencies:
