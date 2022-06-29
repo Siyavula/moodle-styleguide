@@ -5,7 +5,7 @@
 
 Moodle has some very specific styling that should be followed, check out the coding style guide at:
 
-  [www.moodledev.io]([https://www.example.com](https://moodledev.io/general/development/policies/codingstyle))
+  [www.moodledev.io](https://moodledev.io/general/development/policies/codingstyle)
 
 
 ## Setting up your linter
@@ -24,7 +24,6 @@ The linter recommended for moodle development is PHP Codesniffer. PHP CodeSniffe
  
   2. Install composer dependencies:
     
-     `code`
       composer global require "squizlabs/php_codesniffer=*"
   
       composer global require moodlehq/moodle-cs
@@ -38,10 +37,8 @@ The linter recommended for moodle development is PHP Codesniffer. PHP CodeSniffe
 
   4. Install PHP CodeSniffer in VS Code or your code editor:
  
-
-      On VSCode:
-      
-     
+      On VS:
+           
           - Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
    
           - Type ext install phpcs to find the extension.
