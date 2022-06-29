@@ -35,7 +35,8 @@ The following are the steps to set up PHP Codesniffer:
   4. Install PHP CodeSniffer in VS Code or your code editor:
  
 
-      ###On VS Code:
+      On VS Code:
+      
       
           Open Visual Studio Code.
     
