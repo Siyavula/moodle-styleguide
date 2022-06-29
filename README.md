@@ -19,20 +19,22 @@ The linter recommended for moodle development is PHP Codesniffer. PHP CodeSniffe
 
   1. Start by installing composer, the steps are provided in the link below:
 
-     [www.digitalocean.com](https://www.example.com](https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart)
+     [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart)
     
  
   2. Install composer dependencies:
-    
+ 
+      ```shell   
       composer global require "squizlabs/php_codesniffer=*"
   
       composer global require moodlehq/moodle-cs
-      
+      ```  
    
   3. If composer is still missing add it's path to your bashrc:
 
-     `code`
+      ```shell
       export PATH="$PATH:$HOME/.config/composer/vendor/bin"
+      ```
       
 
   4. Install PHP CodeSniffer in VS Code or your code editor:
