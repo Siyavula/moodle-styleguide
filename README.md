@@ -22,7 +22,6 @@ The following are the steps to set up PHP Codesniffer:
  
   2. Install composer dependencies:
    
-
       composer global require "squizlabs/php_codesniffer=*"
   
       composer global require moodlehq/moodle-cs
