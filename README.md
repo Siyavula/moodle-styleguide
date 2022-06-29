@@ -5,7 +5,7 @@
 
 Moodle has some very specific styling that should be followed, check out the coding style guide at:
 
-*https://moodledev.io/general/development/policies/codingstyle
+https://moodledev.io/general/development/policies/codingstyle
 
 
 ## Setting up your linter
@@ -17,7 +17,7 @@ The following are the steps to set up PHP Codesniffer:
 
   1. Start by installing composer, the steps are provided in the link below:
 
-    *https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
+    https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
     
  
   2. Install composer dependencies:
@@ -36,17 +36,17 @@ The following are the steps to set up PHP Codesniffer:
 
   4. Install PHP CodeSniffer in VS Code or your code editor:
 
-    For VS Code:
+      For VS Code:
+      
+        Open Visual Studio Code.
     
-      Open Visual Studio Code.
-    
-      Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
+        Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
    
-      Type ext install phpcs to find the extension.
+        Type ext install phpcs to find the extension.
     
-      Press Enter or click the cloud icon to install it.
+        Press Enter or click the cloud icon to install it.
 
-      Restart Visual Studio Code when prompted.
+        Restart Visual Studio Code when prompted.
  
   
   5. Test that PHP CodeSniffer is working:
