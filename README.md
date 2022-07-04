@@ -30,7 +30,7 @@ The linter recommended for moodle development is PHP Codesniffer. PHP CodeSniffe
       composer global require moodlehq/moodle-cs
       ```  
    
-  3. If composer is still missing add it's path to your bashrc:
+  3. Add composer's path to your bashrc:
 
       ```shell
       export PATH="$PATH:$HOME/.config/composer/vendor/bin"
