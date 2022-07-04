@@ -11,7 +11,7 @@ Moodle has some very specific styling that should be followed, check out the cod
 ## Setting up your linter
 
 
-The linter recommended for moodle development is PHP Codesniffer. PHP Sniffer is a tool used to analyse PHP code using a set of rules. In many cases these rules can be used to automatically fix the errors they identify.
+The linter recommended for moodle development is PHP Sniffer. PHP Sniffer is a tool used to analyse PHP code using a set of rules. In many cases these rules can be used to automatically fix the errors they identify.
 
 
 ### The following are the steps to set up PHP Codesniffer:
