@@ -57,4 +57,16 @@ The linter recommended for moodle development is PHP Sniffer. PHP Sniffer is a t
      - Add a variable in camel case.
     
      - Save changes and check that an error pops up for the incorrect case used.
+  
+  
+## Upgrading Plugin
+
+  
+To upgrade your plugin, certain files must be updated for moodle to detect that there is a new version of your plugin, please see the following links below:
+
+
+    - https://moodledev.io/docs/guides/upgrade/
+    
+    - https://docs.moodle.org/dev/Upgrade_API
+
 
