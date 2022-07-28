@@ -65,8 +65,8 @@ The linter recommended for moodle development is PHP Sniffer. PHP Sniffer is a t
 To upgrade your plugin, certain files must be updated for moodle to detect that there is a new version of your plugin, please see the following links below:
 
 
-    - [https://moodledev.io/docs/guides/upgrade/](https://moodledev.io/docs/guides/upgrade/)
+    [Moodle Upgrade Plugin Guide](https://moodledev.io/docs/guides/upgrade/)
     
-    - [https://docs.moodle.org/dev/Upgrade_API](https://docs.moodle.org/dev/Upgrade_API)
+    [Moodle Upgrade API Guide](https://docs.moodle.org/dev/Upgrade_API)
 
 
